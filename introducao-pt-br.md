@@ -16,7 +16,7 @@ Enquanto procurava uma maneira de desenvolver para o  ecossistema Mac, não enon
 * **Displayport**
 * **HDMI**
 
-## Referências/Outros guias
+## Referências/Outros tutoriais
 
 Os links, ferramentas e tutoriais a seguir foram **cruciais** para esse tutorial.
 
