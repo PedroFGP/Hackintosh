@@ -1,4 +1,4 @@
-# Introduction
+# Introduction \(en-us\)
 
 ## Inspiration
 
@@ -11,8 +11,10 @@ While looking for a way to develop for the Mac eco system there are no affordabl
 * **Wifi**
 * **Ethernet** \(Only one RJ45 port\)
 * **Graphics** \(HD 630\)
-* **Sleep**
+* **Sleep/Wake**
 * **USB's** \(Custom mapped using **hackintool**\)
+* **Displayport**
+* **HDMI**
 
 ## References/Other Guides
 

@@ -1,4 +1,4 @@
-# Hardware
+# Hardware \(en-us\)
 
 * **Motherboad** - ASRock Z370M-ITX/AC \(lastest BIOS version 3.30\)
 * **CPU** - Intel Core i5 8600k \(overclocked to **4.5 ghz**\)
@@ -7,4 +7,6 @@
 * **CPU Cooler** - Noctua NH L12S
 * **Wifi/Bt Card** -  BCM94360CS2
 * **M.2 Wifi/Bt Card Adapter** -  Hobbypower BCM94360CS2 Card To NGFF\(M.2\) Key A/E Adapter
+* **Case** - Silverstone SG05 \(power supply included\)
+* **Display** - Dell S2716DG \(27"\)
 

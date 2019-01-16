@@ -1,2 +1,2 @@
-# EFI folder
+# EFI
 
