@@ -1,10 +1,3 @@
----
-description: >-
-  The focus of this guide is to provide ready-to-use files and information about
-  building a hackintosh for a specific set of hardware for the Mojave version
-  10.14.2
----
-
 # Introduction
 
 ## Inspiration
