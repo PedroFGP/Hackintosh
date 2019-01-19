@@ -25,6 +25,7 @@ The following guides/links were **crucial** to the making of this guide.
 * **Clover Configurator** - [https://mackie100projects.altervista.org/download-clover-configurator/](https://mackie100projects.altervista.org/download-clover-configurator/)
 * **Custom SSDT for USB guide**  - [https://www.tonymacx86.com/threads/guide-creating-a-custom-ssdt-for-usbinjectall-kext.211311/](https://www.tonymacx86.com/threads/guide-creating-a-custom-ssdt-for-usbinjectall-kext.211311/) \(although used codeless kext approach\)
 *  **Broadcom WiFi/Bluetooth** - [https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/](https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/)
+* **Common Problems \(Audio\)** - [https://www.tonymacx86.com/threads/readme-common-problems-and-workarounds-on-10-14-mojave.255823/](https://www.tonymacx86.com/threads/readme-common-problems-and-workarounds-on-10-14-mojave.255823/)
 
 ## Credits/Shoutout
 
