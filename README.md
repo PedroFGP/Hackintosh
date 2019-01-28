@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-While looking for a way to develop for the Mac eco system there are no affordable/customizable products available. Apple's politics to tightly integrate their hardware and software does make up for an amazing experience but it does not justify the price nor the the lack of flexibility.
+While looking for a way to develop for the Mac eco system there are no affordable/customizable products available. Apple's politics to tightly integrate their hardware and software do make up for an amazing experience but it does not justify the price nor the the lack of flexibility.
 
 ## What works
 
