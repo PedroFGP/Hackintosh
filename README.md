@@ -1,5 +1,9 @@
 # Introduction \(en-us\)
 
+## UPDATE - Mojave 10.14.5
+
+Updated to latest Mojave version (10.14.5), updated Kexts and Clover (r4920). Added my current EFI folder to this repository to help others with similar hardware configuration.
+
 ## Inspiration
 
 While looking for a way to develop for the Mac eco system there are no affordable/customizable products available. Apple's politics to tightly integrate their hardware and software do make up for an amazing experience but it does not justify the price nor the the lack of flexibility.
