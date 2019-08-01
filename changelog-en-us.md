@@ -1,6 +1,6 @@
 # Changelog \(en-us\)
 
-* \(**31/07/2019**\) - Updated to latest Mojave version \(10.14.6\), updated Kexts and Clover \(r5033\). Not re-uploading EFI folder this time, minor modifications needed but keep in mind clover changed folder strctures for drivers so **BEWARE!**
+* \(**31/07/2019**\) - Updated to latest Mojave version \(10.14.6\), updated Kexts and Clover \(r5033\). Not re-uploading EFI folder this time, minor modifications needed but keep in mind clover changed folder structure for drivers so **BEWARE!**
 
 
 
